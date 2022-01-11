@@ -1,4 +1,4 @@
-# 👋 Thanks to visit
+# 👋 Thanks for visiting
 
 >### Studying 
      Python
