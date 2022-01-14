@@ -1,8 +1,11 @@
 # 👋 Thanks for visiting
 
 >### Studying 
-     Python
-     NodeJS
+#### HTML
+#### CSS
+#### JavaScript
+#### NodeJS
+#### Python
 
 ### ✨ Have a nice day!✨
 <!---
