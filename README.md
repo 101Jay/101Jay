@@ -1,11 +1,17 @@
 # 👋 Thanks for visiting
 
+## [Home](101jay.github.io/code_js/)
+
+
+
 >### Studying 
 #### HTML
 #### CSS
 #### JavaScript
 #### NodeJS
-#### Python
+#### Python  
+
+
 
 ### ✨ Have a nice day!✨
 <!---
