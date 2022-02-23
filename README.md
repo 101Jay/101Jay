@@ -1,6 +1,6 @@
 # 👋 Thanks for visiting
 
-## [Home](https://101jay.github.io/Code_js/)
+## [Home](https://101jay.github.io)
 
 
 
